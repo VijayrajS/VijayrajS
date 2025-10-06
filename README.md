@@ -2,6 +2,7 @@
 
 🎓 MS CS @ Georgia Tech (Specializing in Computing Systems)  
 💻 Software Engineer @ Rubrik
+
 🔬 Researcher @ Georgia Tech Internet Intelligence Lab & Distributed Data Intelligence Lab  
 📍 Interested in Developer Platforms • Distributed Systems • Applied Machine Learning
 
