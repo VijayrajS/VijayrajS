@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vijayraj Shanmugaraj
 
 🎓 MS CS @ Georgia Tech (Specializing in Computing Systems)  
-💻 Ex-Software Engineer II @ Visa Inc.  
+💻 Software Engineer @ Rubrik
 🔬 Researcher @ Georgia Tech Internet Intelligence Lab & Distributed Data Intelligence Lab  
 📍 Interested in Developer Platforms • Distributed Systems • Applied Machine Learning
 
